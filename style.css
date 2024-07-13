@@ -1,0 +1,30 @@
+h1{
+  /* background-color: rgb(195, 19, 19); */
+  color: #fff;
+  text-align: center;
+  font-family:cursive;
+}
+input {
+  /* background-color:brown; */
+  font-size: 1.35rem;
+}
+body{background:linear-gradient(to bottom, midnightblue, black);
+color: white;}
+form{
+  background:linear-gradient(to top right, rgb(58, 58, 198), rgb(26, 25, 25));
+  padding:1.2rem;
+  border-radius: 47px;
+  margin: 3rem;
+}
+p{
+  font-size: 1.3rem;
+}
+img {width:25rem;}
+label{
+  font-size: 1.3rem;
+
+}
+a{
+  color: green;
+  font-size: 1.1rem;
+}
